@@ -26,7 +26,7 @@
         <version>2.2</version>
         <configuration>
           <uriEncoding>utf-8</uriEncoding>
-          <port>8088</port>
+          <port>8082</port>
         </configuration>
       </plugin>
     </plugins>
